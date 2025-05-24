@@ -23,9 +23,21 @@
 
 ---
 
-## 🖼️ Screenshots
 
-> Add screenshots or a walkthrough GIF here
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home Page](./assets/homepage.png)
+
+### 🔍 Job Search Page  
+![Job Search](./assets/job%20search.png)
+
+### 📂 Browse Page  
+![Browse Page](./assets/browse%20page.png)
+
+### 🔐 Login Page  
+![Login Page](./assets/login'.png)
+
 
 ---
 
