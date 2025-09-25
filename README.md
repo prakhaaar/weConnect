@@ -30,7 +30,7 @@
 ![Home Page](frontend/src/assets/homepage.png)
 
 ### 🔍 Job Search Page  
-![Job Search](frontend/src/assets/job search.png)
+![Job Search](frontend/src/assets/jobsearch.png)
 
 ### 📂 Browse Page  
 ![Browse Page](frontend/src/assets/homepage.png)
