@@ -27,7 +27,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](./assets/homepage.png)
+![Home Page](frontend/src/assets/homepage.png)
 
 ### 🔍 Job Search Page  
 ![Job Search](./assets/job%20search.png)
